@@ -18,7 +18,7 @@ body {
     display: block;
 }
 
-.layout {
+.block {
     display: flex;
     margin: 0;
     padding: 20px 20px 20px 0;
